@@ -40,7 +40,7 @@ class Place(BaseModel, Base):
                                  viewonly=False)
     else:
         city_id = ""
-        user_id = ""OOA
+        user_id = ""
         name = ""
         description = ""
         number_rooms = 0
